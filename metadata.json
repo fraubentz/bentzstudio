@@ -1,0 +1,6 @@
+{
+  "name": "Cadence Studio",
+  "description": "Free browser-based music composer with Web MIDI hardware recording, real-time audio synthesis, mathematical quantization, and live sheet music engraving.",
+  "requestFramePermissions": ["midi"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
